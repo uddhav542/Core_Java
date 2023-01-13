@@ -1,6 +1,7 @@
 package integerarraylist;
 
 import java.util.*;
+import java.io.*;
 
 /**
  * Fancy ArrayList that stores integers and supports additional operations not included in Java's built-in ArrayList methods.
