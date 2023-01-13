@@ -1,0 +1,17 @@
+import junit.framework.TestCase;
+
+public class CounterTest extends TestCase {
+
+	protected void setUp() throws Exception {
+		super.setUp();
+	}
+
+	public void testIncreament() {
+		fail("Not yet implemented"); // TODO
+	}
+
+	public void testDecreament() {
+		fail("Not yet implemented"); // TODO
+	}
+
+}

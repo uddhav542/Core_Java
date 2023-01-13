@@ -1,0 +1,34 @@
+package arrayandarraylist;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+
+class ArrayAndArrayListTest2 {
+
+	@BeforeEach
+	void setUp() throws Exception {
+	}
+
+	@Test
+	void testHowMany() {
+		fail("Not yet implemented"); // TODO
+	}
+
+	@Test
+	void testFindMax() {
+		fail("Not yet implemented"); // TODO
+	}
+
+	@Test
+	void testMaxArray() {
+		fail("Not yet implemented"); // TODO
+	}
+
+	@Test
+	void testSwapZero() {
+		fail("Not yet implemented"); // TODO
+	}
+
+}

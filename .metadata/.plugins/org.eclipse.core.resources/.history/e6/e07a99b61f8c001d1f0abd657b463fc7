@@ -1,0 +1,44 @@
+package customstring;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+
+class CustomStringTest2 {
+
+	@BeforeEach
+	void setUp() throws Exception {
+	}
+
+	@Test
+	void testCustomString() {
+		fail("Not yet implemented"); // TODO
+	}
+
+	@Test
+	void testGetString() {
+		fail("Not yet implemented"); // TODO
+	}
+
+	@Test
+	void testSetString() {
+		fail("Not yet implemented"); // TODO
+	}
+
+	@Test
+	void testRemove() {
+		fail("Not yet implemented"); // TODO
+	}
+
+	@Test
+	void testReverse() {
+		fail("Not yet implemented"); // TODO
+	}
+
+	@Test
+	void testFilterLetters() {
+		fail("Not yet implemented"); // TODO
+	}
+
+}
